@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 사진
+title: 사진첩
 #permalink: /about/
 ---
