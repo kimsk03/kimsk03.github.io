@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "연중 제19주일(2019년 8월 11일)"
+date:   2019-08-25 09:24:02 -0400
+categories: jekyll update
+---
